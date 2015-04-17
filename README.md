@@ -13,5 +13,6 @@
  - SquareUp Retrofit	Apache License, Version 2.0	https://github.com/square/retrofit/blob/master/LICENSE.txt
  - SquareUp okhttp	Apache License, Version 2.0	https://github.com/square/okhttp/blob/master/LICENSE.txt
  - SquareUp otto	Apache License, Version 2.0	https://github.com/square/otto/blob/master/LICENSE.txt
+ 
 3- Image downloading & Cashing:
  - Picasso, Version 2.5.2, https://github.com/square/picasso/blob/master/LICENSE.txt
