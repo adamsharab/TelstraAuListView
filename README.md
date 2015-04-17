@@ -1,8 +1,10 @@
 # TelstraAuListView
 
-Android app which ingests a json feed and displays the content in a ListView. The title in the ActionBar is updated from the json data. It Loads the images lazily and allows the data/view to be refreshed via either a refresh button.
+- Android app which ingests a json feed and displays the content in a ListView. The title in the ActionBar is updated from the json data. It Loads the images lazily and allows the data/view to be refreshed via either a refresh button.
 
-Open source Libraries used in this project:
+- Used Android Studio 1.1.0
+
+- Open source Libraries used in this project:
 
 * Dependency injection:
  - RoboGuice	Apache License, Version 2.0	https://github.com/roboguice/roboguice/blob/master/LICENSE
